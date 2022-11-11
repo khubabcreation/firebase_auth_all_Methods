@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967904760448",
+    "project_id": "fiverfire-fa27c",
+    "storage_bucket": "fiverfire-fa27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967904760448:android:659eb944579fae516e4c65",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967904760448-vkuk8jnt8bauki95h9mh4j5qjv96q5fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGAoENx4otIViHQGqeo_Hs9Ogsh3RLATM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967904760448-vkuk8jnt8bauki95h9mh4j5qjv96q5fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
